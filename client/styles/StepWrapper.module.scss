@@ -1,0 +1,59 @@
+.StepWrapper__container {
+  margin: 70px 0;
+  justify-content: center;
+}
+.StepWrapper__card {
+  width: 1000px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+  min-height: 330px;
+}
+.StepWrapper__trackInfo {
+  width: 600px;
+  padding: 10px;
+}
+.StepWrapper__albumInfo {
+  width: 600px;
+  padding: 10px;
+  margin-bottom: auto;
+}
+.StepWrapper__card img{
+  width: 225px;
+  height: 225px;
+}
+.StepWrapper__card audio{
+  margin-bottom: 50px;
+  width: 500px;
+ }
+.StepWrapper__fileName{
+  margin-top: 7px;
+}
+.StepWrapper__card hr{
+  width: 1000px;
+  border: 1px solid rgba(168, 49, 247, 0.6);
+  margin-bottom: 0;
+}
+.StepWrapper__card button{
+  width: 1000px;
+}
+
+.StepWrapper__stepTracks button{
+  width: 300px;
+  border: 1px solid rgba(168, 49, 247, 0.6);
+}
+.StepWrapper__stepTracks audio{
+  width: 300px;
+  height: 20px;
+  margin-bottom: 10px;
+
+}
+.StepWrapper__stepTracks__fileName{
+  width: 300px;
+  text-align: center;
+  margin-bottom: 10px;
+  overflow-x: auto;
+  white-space: nowrap;
+  scrollbar-width: thin;
+}
