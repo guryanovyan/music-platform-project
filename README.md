@@ -1,11 +1,19 @@
-Fullstack project of a musical platform, where you can upload your tracks, albums and listen them right away.
+# Music platform project
 
-Backend: Nest.js with TypeScript;
-Frontend: React with Next.js;
-CSS: MaterialUI
+## Fullstack project of a music platform, where you can upload your tracks, albums and listen them right away.
 
-Server launch
+### Backend: Nest.js with TypeScript;
+### Frontend: React with Next.js;
+### CSS: MaterialUI
+
+##
+
+**Server launch**
+```
 npm run start:dev
+```
 
-Client launch
+**Client launch**
+```
 npm run dev
+```
