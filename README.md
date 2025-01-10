@@ -4,7 +4,8 @@
 
 ### Backend: Nest.js with TypeScript;
 ### Frontend: React with Next.js;
-### CSS: MaterialUI
+### Database: MongoDB;
+### CSS: MaterialUI;
 
 ##
 
