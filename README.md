@@ -1,6 +1,7 @@
 # Music platform project
 
-## Fullstack project of a music platform where you can upload your tracks, albums and listen them right away.
+## Fullstack project of a music platform
+Upload your tracks, albums and listen them right away.
 
 ### Technologies used:
 - **Backend:** Nest.js with TypeScript;
